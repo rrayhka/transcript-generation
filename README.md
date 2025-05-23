@@ -43,7 +43,7 @@ Output:
 
 Model yang digunakan:
 
-* [`cahya/whisper-medium-id`](https://huggingface.co/cahya/whisper-medium-id): Whisper fine-tuned Bahasa Indonesia dari HuggingFace
+* [`cahya/whisper-medium-id`](https://huggingface.co/cahya/whisper-medium-id): Whisper fine-tuned Bahasa Indonesia dari Openai
 
 ## 🛠 Struktur Kode
 
